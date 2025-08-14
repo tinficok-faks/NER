@@ -1,0 +1,98 @@
+Emma Johnson met Daniel Smith in London after returning from the United States.
+Michael Brown spoke to Olivia Davis about IBM in New York.
+Sophia Wilson visited Paris with Alexander Miller from France.
+Benjamin Taylor sent Microsoft's report to Ava Anderson in Seattle.
+Charlotte Thomas landed in Berlin from Germany to meet Liam Jackson at Siemens.
+Isabella White worked with Noah Harris in Toronto for Shopify.
+Evelyn Martin traveled to Tokyo from Japan with Google's team.
+Mia Thompson discussed Amazon's plans with Jacob Garcia in San Francisco.
+Harper Martinez invited Lucas Clark to Barcelona in Spain.
+Ella Rodriguez reviewed Oracle's contract with William Lewis in Chicago.
+Abigail Lee presented Meta's results to Henry Walker in Los Angeles.
+Avery Hall returned from Canada to meet Scarlett Allen in Boston.
+Aria Young joined Tesla in Austin after leaving the United Kingdom.
+Grace King spoke with Samuel Wright at HSBC in London.
+Chloe Scott flew from Italy to Zurich to visit UBS with Jack Green.
+Victoria Adams arrived in Dublin from Ireland for a meeting at Accenture.
+Natalie Baker walked through Amsterdam with David Nelson from the Netherlands.
+Hannah Carter sent Intel's invoice to Ryan Mitchell in Phoenix.
+Lily Perez met with Ethan Roberts about Nvidia in Denver.
+Zoey Turner called Sofia Phillips from Madrid in Spain.
+Penelope Campbell traveled to Rome from Italy to meet George Parker at ENI.
+Layla Evans reviewed Barclays' letter with Owen Edwards in Manchester.
+Riley Collins thanked Louis Stewart for Apple's support in Cupertino.
+Nora Sanchez returned to Vancouver from the United States with Shopify's documents.
+Camila Morris met Oliver Rogers in Sydney, Australia, to discuss Atlassian.
+Paisley Reed delivered SAP's updates to Jason Cook in Munich.
+Aurora Morgan spoke with Anthony Bailey about Shell in London.
+Brooklyn Rivera arrived from Brazil to meet Victoria Cooper in Lisbon.
+Leah Richardson visited Geneva from Switzerland to tour Rolex.
+Stella Cox briefed Patrick Howard on Boeing in Seattle.
+Violet Ward wrote to Andrew Peterson about Sony from Tokyo, Japan.
+Ellie Gray brought Airbus' blueprints to Lucas Ramirez in Toulouse.
+Naomi James discussed Vodafone with Adam Price in Reading, United Kingdom.
+Lucy Bennett sent HSBC's memo to Thomas Wood in Hong Kong.
+Madison Barnes flew from Mexico to New York to meet Maria Ross at Pfizer.
+Eva Powell introduced Nathan Long to Nokia in Helsinki, Finland.
+Eliana Hughes carried Samsung's samples to Peter Foster in Seoul.
+Addison Russell coordinated with Chloe Simmons in Ottawa, Canada, for Shopify.
+Bella Butler phoned Logan Bryant about BP from Aberdeen, Scotland.
+Luna Foster arrived in Prague from the Czech Republic to meet Avast.
+Savannah Simmons forwarded Citi's statement to Jonathan Diaz in Miami.
+Leilani Hayes toured Spotify in Stockholm after leaving Sweden's embassy.
+Claire Myers met Alfred Kelley from Visa in San Mateo, United States.
+Audrey Ford reviewed Deloitte's findings with Eric Hamilton in Johannesburg, South Africa.
+Skylar Graham sent Barclays' forms to Tyler West in Birmingham.
+Paisley Stone met Sophia Warren in Edinburgh to discuss Baillie Gifford.
+Allison Gordon returned from India to meet Rahul Patel at Tata in Mumbai.
+Elena Shaw walked with Ahmed Ali through Dubai in the United Arab Emirates.
+Quinn Spencer presented Nestlé's proposal to Marc Dubois in Lausanne, Switzerland.
+Ana Horvat je razgovarala s Markom Petrovićem u Zagrebu nakon povratka iz Hrvatske.
+Ivan Kovačić je poslao izvještaj Microsoftu u Splitu.
+Marija Jurić je posjetila Pariz s Lukom Babićem iz Francuske.
+Petra Novak je predstavila planove Googlea Ivanu Radiću u Rijeci.
+Tomislav Vuković je stigao u Beč iz Austrije na sastanak u Siemensu.
+Karla Kovač je radila s Nikolom Marićem u Osijeku za Infobip.
+Filip Grgić je otputovao u Rim iz Italije s timom Applea.
+Lucija Knežević je raspravljala o ugovorima Amazona s Petrom Božićem u Zadru.
+Matej Šarić je pozvao Ivu Perić u Barcelonu u Španjolskoj.
+Helena Krpan je pregledala dokumente Oraclea s Ivanom Blaževićem u Varaždinu.
+Teo Vuk je izložio rezultate Mete Emini Kralj u Ljubljani.
+Marta Mikulić se vratila iz Kanade kako bi upoznala Leona Radića u Dubrovniku.
+Antonija Babić se priključila Tesli u Berlinu nakon odlaska iz Ujedinjenog Kraljevstva.
+Dora Novak je razgovarala s Petrom Kozinom u Zagrebu u vezi s HSBC-om.
+Nikolina Jurković je odletjela iz Italije u Zürich kako bi posjetila UBS.
+Lea Šimić je stigla u Dublin iz Irske na sastanak u Accentureu.
+Paola Kovačić je prošetala Amsterdamom s Davidom Novakovićem iz Nizozemske.
+Gabrijela Tomaš je poslala račun Intela Luki Prskalu u Puli.
+Nika Kušić se našla s Ivanom Pavićem u vezi s Nvidiom u Šibeniku.
+Petra Ljubić je nazvala Tinu Lovrić iz Madrida u Španjolskoj.
+Vanja Barišić je otputovao u Rim iz Italije kako bi se sastao s predstavnicima ENI-ja.
+Jelena Lončar je pregledala pismo Barclaysa s Jurajem Krstićem u Splitu.
+Zoran Majstorović je zahvalio Ani Vidić na podršci Applea u Zadru.
+Ivana Radić se vratila u Vancouver iz Sjedinjenih Država s dokumentima Shopifyja.
+Matija Bogdan je upoznao Saru Kolar u Sydneyu u Australiji kako bi razgovarali o Atlassianu.
+Leon Jerković je dostavio ažuriranja SAP-a Josipu Knezu u Münchenu.
+Marin Orešković je razgovarao s Anom Blažević o Shellu u Londonu.
+Tea Cvitković je stigla iz Brazila kako bi se susrela s Petrom Županom u Lisabonu.
+Kristina Perković je posjetila Ženevu u Švicarskoj kako bi obišla Rolex.
+Andrej Pavlović je informirao Petru Šarić o Boeingu u Seattleu.
+Ela Tuškan je napisala pismo Andrewu Petersonu o Sonyju iz Tokija u Japanu.
+Matea Đurić je donijela nacrte Airbusa Luki Radiću u Toulouseu.
+Nina Majcen je razgovarala o Vodafonu s Ivanom Prpićem u Readingu u Ujedinjenom Kraljevstvu.
+Zlatko Vukelić je poslao dopis HSBC-u Tomislavu Krstiću u Hong Kongu.
+Marija Šarić je odletjela iz Meksika u New York kako bi se sastala s Marijom Roso u Pfizeru.
+Kristijan Barić je predstavio Nokkiju Petru Brliću u Helsinkiju u Finskoj.
+Janko Babić je predao uzorke Samsunga Petri Vidić u Seulu.
+Mirna Kovač je koordinirala s Leonom Sertićem u Ottawi u Kanadi za Shopify.
+Petra Rogić je nazvala Antu Barića o BP-u iz Aberdeena u Škotskoj.
+Martin Jurić je stigao u Prag iz Češke kako bi posjetio Avast.
+Eva Petrović je proslijedila izvještaj Citija Ivanu Jelaviću u Miamiju.
+Sara Novak je obišla Spotify u Stockholmu nakon odlaska iz veleposlanstva Švedske.
+Tea Horvat se susrela s Alfredom Kelleyjem iz Vise u San Mateu u Sjedinjenim Državama.
+Luka Radić je pregledao nalaze Deloittea s Erikom Hamiltonom u Johannesburgu u Južnoafričkoj Republici.
+Anja Perić je poslala obrasce Barclaysa Dejanu Vukoviću u Birminghamu.
+Petar Marić se sastao sa Sofijom Varen u Edinburghu kako bi razgovarali o Baillieju Giffordu.
+Ivana Kovačević se vratila iz Indije kako bi upoznala Rahula Patela u Tati u Mumbaiju.
+Ante Rašić je šetao s Ahmedom Alijem kroz Dubai u Ujedinjenim Arapskim Emiratima.
+Jasna Šimić je predstavila prijedlog Nestléa Marcu Duboisu u Lausannei u Švicarskoj.
