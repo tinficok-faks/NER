@@ -1,16 +1,16 @@
 Yolanda B-PERSON
 Kovač I-PERSON
 je O
-posjetio O
-Dubrovnikome B-CITY
+posjetila O
+Dubrovnik B-CITY
 i O
 razgovarao O
 s O
-Adora B-PERSON
+Adorom B-PERSON
 Waneta I-PERSON
 Šarić I-PERSON
 iz O
-Amazon B-COMPANY
+Amazona B-COMPANY
 . O
 
 Milly B-PERSON
@@ -30,7 +30,7 @@ Apple B-COMPANY
 
 Sastanak O
 između O
-Arron B-PERSON
+Arrona B-PERSON
 Kovač I-PERSON
 i O
 Kirbie B-PERSON
@@ -38,7 +38,7 @@ Marić I-PERSON
 održan O
 je O
 u O
-Dubrovnik B-CITY
+Dubrovniku B-CITY
 u O
 Teslai B-COMPANY
 . O
@@ -88,9 +88,9 @@ Tandi B-PERSON
 Perić I-PERSON
 rade O
 u O
-Rimaca B-COMPANY
+Rimac B-COMPANY
 u O
-Zagreb B-CITY
+Zagrebu B-CITY
 . O
 
 Jamie B-PERSON
@@ -98,20 +98,20 @@ Kralj I-PERSON
 je O
 došao O
 iz O
-Paris B-CITY
+Pariza B-CITY
 i O
 priključio O
 se O
-Podravka B-COMPANY
+Podravci B-COMPANY
 . O
 
 Lynne B-PERSON
 Marić I-PERSON
 radi O
 za O
-Microsofti B-COMPANY
+Microsoft B-COMPANY
 u O
-Zadar B-CITY
+Zadaru B-CITY
 . O
 
 Dasya B-PERSON
