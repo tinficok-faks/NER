@@ -47823,9 +47823,9 @@ Google B-COMPANY
 . O
 
 U O
-Osijekem B-CITY
+Osijeku B-CITY
 u O
-Ekvador B-COUNTRY
+Hrvatskoj B-COUNTRY
 Frederich B-PERSON
 Charmane I-PERSON
 Babić I-PERSON
@@ -59385,10 +59385,10 @@ Finland B-COUNTRY
 Petra B-PERSON
 Kolar I-PERSON
 je O
-posjetio O
+posjetila O
 Zagreb B-CITY
 i O
-razgovarao O
+razgovarala O
 o O
 SAP-u B-COMPANY
 . O
